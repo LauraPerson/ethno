@@ -26,6 +26,7 @@ gem 'pg'
 
 gem 'simple_form', github: 'heartcombo/simple_form'
 
+gem 'devise'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
